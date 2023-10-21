@@ -1,0 +1,159 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    color: rgb(247, 247, 247);
+    width:100%;      
+    padding: 20px 30x;
+    display: inline-block;
+    margin-right: auto;
+    
+}
+
+.logo-container{
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    background-color: #9e82a2;
+}
+
+.logo-container h1 {
+    display: inline-block;
+    margin: 0;
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #9e82a2;
+}
+ 
+.navigation a li{
+    list-style-type: none;
+    vertical-align: middle;
+    float: left;
+    padding: 0px 10px;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: rgb(192, 138, 196);
+    color: #f1e0e0;
+    
+}
+
+.content{
+    height: 100%;
+    
+}
+
+.content h1 {
+    color: black;
+    padding: 0px 150px;
+}
+
+.content hr{
+    padding: 0px 100px;
+    width: 60%;
+    text-align: justify;
+}
+
+
+.content-container{
+    display: inline-block;
+    margin: 0;
+}
+
+.content-container img {
+    padding: 0px 20px 0px 150px;
+    float: left;
+    height: 310px;
+    width: 320px;
+}
+
+.content-container p{
+    padding: 0px 150px;
+    width: 75%;
+    text-align: justify;
+    font-size: large
+}
+
+.content1{
+    height: 100%;
+    
+}
+
+.content1 h1 {
+    color: black;
+    padding: 0px 150px;
+}
+
+.content1 hr{
+    padding: 0px 100px;
+    width: 60%;
+    text-align: justify;
+}
+
+
+.content-container1{
+    display: inline-block;
+    margin: 0;
+}
+
+.content-container1 img {
+    padding: 0px 20px 0px 150px;
+    float: left;
+    height: 310px;
+    width: 350px;
+}
+
+.content-container1 p{
+    padding: 0px 150px;
+    width: 75%;
+    text-align: justify;
+    font-size: large
+}
+
+.content2{
+    height: 100%;
+    
+}
+
+.content2 h1 {
+    color: black;
+    padding: 0px 150px;
+}
+
+.content2 hr{
+    padding: 0px 100px;
+    width: 60%;
+    text-align: justify;
+}
+
+
+.content-container2{
+    display: inline-block;
+    margin: 0;
+}
+
+
+.content-container2 p{
+    padding: 0px 150px;
+    width: 70%;
+    text-align: justify;
+    font-size: large;
+}
